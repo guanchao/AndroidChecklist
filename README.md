@@ -149,10 +149,10 @@
 ## 三、业务安全扫描
 未整理，欢迎大家补充
 
-Checklist脑图：
+## 四、Checklist脑图：
 ![checklist-logo](checklist.png)
 
-## 四、问题反馈
+## 五、问题反馈
 上面大部分的checklist，我在开发的APP审计系统中已经实现。
 [http://01hackcode.com](http://01hackcode.com)
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
@@ -160,5 +160,5 @@ Checklist脑图：
 * 邮件(shuwoom.wgc@gmail.com)
 * weixin: wenbanana
 
-## 五、关于作者
+## 六、关于作者
 * 个人博客: [@shuwoom](http://shuwoom.com)
