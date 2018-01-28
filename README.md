@@ -106,9 +106,9 @@
 * 14.4 混淆率检测
 
 ### 15 系统漏洞检测
-* 15.1 fragment注入漏洞检测
-* 15.2 sqlite数据库日志泄露漏洞检测
-* 15.3 随机数生成漏洞检测
+* 15.1 [fragment注入漏洞检测](http://01hackcode.com/wiki/15.1)
+* 15.2 [sqlite数据库日志泄露漏洞检测](http://01hackcode.com/wiki/15.2)
+* 15.3 [随机数生成漏洞检测](http://01hackcode.com/wiki/15.3)
 
 ### 16 其他
 * 通用签名风险检测
