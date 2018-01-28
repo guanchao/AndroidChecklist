@@ -84,7 +84,7 @@
 * 12.10 [外部加载Dex检测](http://01hackcode.com/wiki/12.10)
 * 12.11 [外部存储路径检测](http://01hackcode.com/wiki/12.11)
 * 12.12 [明文数字证书风险](http://01hackcode.com/wiki/12.12)
-* 12.13 [第三方oauth敏感信息泄露](http://01hackcode.com/wiki/12.13)
+* 12.13 第三方oauth敏感信息泄露
 
 ### 13 敏感函数调用检测
 * 13.1 [安全相关的函数检测](http://01hackcode.com/wiki/13.1)
